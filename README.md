@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Potting Survey Neo Brutalism (20 Items) — React + Vite + Supabase
 
 Form survey 20 item (Likert 1–5) tanpa esai, UI Neo Brutalism cerah.
@@ -45,3 +46,6 @@ Buka:
 
 ## Catatan Etika
 Topik sensitif. Dashboard publik hanya agregat. Data mentah hanya untuk admin yang diberi akses.
+=======
+# poting-cerai
+>>>>>>> c57e784fbb68876264aeee42bf682bb0bc6425ef
